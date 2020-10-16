@@ -1,8 +1,8 @@
 # 01 - JavaScript Drum Kit
 
-## 主題
-
 ![](https://github.com/lopthick3/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/Drum%20Kit.png)
+
+## 主題
 
 透過 JS 在按下鍵盤後播出對應按鍵的聲音，並與網頁上顯示一個特效，在按下其他鍵後會移除該特效並在新按鍵顯示。
 

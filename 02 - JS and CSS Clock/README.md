@@ -1,8 +1,8 @@
 # 02 - JS and CSS Clock
 
-## 主題
-
 ![](https://github.com/lopthick3/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/Clock.png)
+
+## 主題
 
 用 JS 與 CSS 搭配製作一個實時的時鐘效果。
 
