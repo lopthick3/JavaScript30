@@ -21,20 +21,20 @@
 利用`now = new Date()`將分秒時取出，並計算出對應角度  
 再透過`element.style.tranform`來變更 CSS 效果，產生位移的感覺。
 
-## **CSS 語法&備註**
+## CSS 語法&備註
 
-### **transform-origin**
+### transform-origin
 
 橫線使用 transform:rotate(90deg)會變成直線，
 預設情況下，會以中心點當作軸心旋轉(50%)，
 若要移動軸心則要使用 transform-origin:100%(最右側)。
 
-### **transform:rotate()**
+### transform:rotate()
 
 旋轉物件，數值後方要加上角度`deg`，  
 可超過 360 度，正值為順時針轉，負值為逆時針旋轉。
 
-### **transition-timing-function: cubic-bezier()**
+### transition-timing-function: cubic-bezier()
 
 設定動畫轉場所依據的貝茲曲線，可以透過 chrome 的開發者工具來進行可視化調整。
 
