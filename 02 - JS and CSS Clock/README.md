@@ -25,8 +25,8 @@
 
 ### transform-origin
 
-橫線使用 transform:rotate(90deg)會變成直線，
-預設情況下，會以中心點當作軸心旋轉(50%)，
+橫線使用 transform:rotate(90deg)會變成直線，  
+預設情況下，會以中心點當作軸心旋轉(50%)，  
 若要移動軸心則要使用 transform-origin:100%(最右側)。
 
 ### transform:rotate()
@@ -54,8 +54,8 @@
 
 ### transform:rotate 的彈跳問題
 
-為了要讓指針從 12 點方向(0 點)開始計算，
-作者將指針.hand 都加上了 rotate(90deg)來轉，
+為了要讓指針從 12 點方向(0 點)開始計算，  
+作者將指針.hand 都加上了 rotate(90deg)來轉，  
 並在計算時間的 function 內最終結果也都+90。
 
 作者最後提到的一個小問題，若指針在 354 度切到 90 度時，  
