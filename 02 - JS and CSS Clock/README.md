@@ -18,7 +18,7 @@
 
 #### 建立 function`setDate`
 
-利用`now = new Date()`,將分秒時取出、，並計算出對應角度  
+利用`now = new Date()`將分秒時取出，並計算出對應角度  
 再透過`element.style.tranform`來變更 CSS 效果，產生位移的感覺。
 
 ## **CSS 語法&備註**
